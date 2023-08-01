@@ -12,6 +12,8 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    color: whitesmoke;
+    text-shadow: 0 0 5px black;
 
 }
 
@@ -26,7 +28,7 @@
     width: 500px;
     font-size: 150%;
     text-align: center;
-    color: whitesmoke;
+
 
     border-radius: 25px;
     padding: 10px 20px;
